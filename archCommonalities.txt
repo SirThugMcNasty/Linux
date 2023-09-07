@@ -7,9 +7,11 @@ packages:
     bitwarden
     nfs-utils
     neofetch
+    wl-clipboard
     gnome-terminal
     gnome-browser-connector
     gnome-shell-extensions
+    gnome-shell-extension-appindicator
     networkmanager-openconnect
     flatpak
     remmina
@@ -25,6 +27,10 @@ git clones:
     https://aur.archlinux.org/teamviewer.git
     https://aur.archlinux.org/tuned.git
     https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+        ./install.sh --color Dark --theme purple --icon arch --nautilus-style mojave --libadwaita
+        sudo ./tweaks.sh --gdm
+        ./tweaks.sh --color Dark --theme purple --icon tux --flatpak --dash-to-dock
     https://github.com/vinceliuice/WhiteSur-icon-theme.git
+        ./install.sh --theme purple --bold
     https://github.com/Gogh-Co/Gogh.git
-
+        ./installs/dracula.sh
