@@ -1,0 +1,30 @@
+packages:
+    neovim
+    ranger
+    git
+    chromium
+    discord
+    bitwarden
+    nfs-utils
+    neofetch
+    gnome-terminal
+    gnome-browser-connector
+    gnome-shell-extensions
+    networkmanager-openconnect
+    flatpak
+    remmina
+
+extensions:
+    AppIndicator and KStatusNotifierItem
+    Dash to Dock
+    Just Perfections
+    Search Light
+
+git clones:
+    https://aur.archlinux.org/vim-plug.git
+    https://aur.archlinux.org/teamviewer.git
+    https://aur.archlinux.org/tuned.git
+    https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+    https://github.com/vinceliuice/WhiteSur-icon-theme.git
+    https://github.com/Gogh-Co/Gogh.git
+
