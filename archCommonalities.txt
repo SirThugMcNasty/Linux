@@ -17,7 +17,6 @@ packages:
     remmina
 
 extensions:
-    AppIndicator and KStatusNotifierItem
     Dash to Dock
     Just Perfections
     Search Light
